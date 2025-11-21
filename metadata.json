@@ -1,0 +1,5 @@
+{
+  "name": "AstroMetric Data Analyst",
+  "description": "An advanced web-based platform for automatic rocket flight telemetry analysis, visualization, and anomaly detection （Using G3）.",
+  "requestFramePermissions": []
+}
